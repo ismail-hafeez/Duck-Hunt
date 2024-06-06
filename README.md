@@ -5,7 +5,7 @@ The famous arcade game made in assembly 8086 in DosBox using MASM.
 It's a simple game; a duck moves across the screen and you use the mouse cursor to click on it, to register a 'hit'. One hit = 2 points.
 
 Mode 1:
-•	The user has 5 bullets.
+- The user has 5 bullets.
 •	To advance to the next round, you need to score at least 6 points.
 •	The difficulty level is easy, with the duck flying at a slower pace.
 
