@@ -16,6 +16,6 @@ Mode 2:
 
 Due to the complexity of the game, coupled with the short deadline and other projects at hand, there is however, one tiny logical problem. The click only seems to work _**after**_ the duck has registered a move from left to right. 
 
-For file handling purposes, a 'text.txt' needs to be created and places in the MP folder or where ever the mounted directory lies.
+For file handling purposes, a 'text.txt' needs to be created and placed in the MP folder or where ever the mounted directory lies.
 
 Goodluck!
